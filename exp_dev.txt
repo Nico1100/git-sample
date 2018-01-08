@@ -1,4 +1,8 @@
 1 --dev
 2 --change for merge
+<<<<<<< 7a4a778571c5864e5081e1d826d2305e20c3448b
 3 --change by dev
 4 --change by dev1
+=======
+3 --change by master
+>>>>>>> exp_dev.txt изменен master
